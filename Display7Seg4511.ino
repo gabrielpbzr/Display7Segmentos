@@ -25,7 +25,6 @@ void writeValue(byte value) {
 void setup() {
   DDRB = 0b00001111;
   DDRC = 0b00000011;
-  Serial.begin(9600);
 }
 
 
