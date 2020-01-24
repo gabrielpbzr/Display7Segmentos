@@ -1,6 +1,6 @@
 /*
  * Controle de dois displays de sete segmentos catodo comum
- * usando o CI 4511 multiplexado
+ * usando o CI 4511 multiplexado.
  * Author: Gabriel P. Bezerra <gabrielpbzr@gmail.com>
  * Date: 2017-12-27
  */
